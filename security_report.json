@@ -1,0 +1,8 @@
+{
+    "total_failed_logins": 7,
+    "total_successful_logins": 2,
+    "unique_failed_sources": 2,
+    "potential_brute_force_sources": {
+        "192.168.1.25": 5
+    }
+}
